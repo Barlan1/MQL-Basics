@@ -1,0 +1,4 @@
+Day_Next= TimeDayOfWeek(Mas_Big[n][0]+60);
+To_Functio_ind();
+a=3; b= a*x+n; i++;
+print(" Day = ",TimeDay(Mas_Big[s][0]));
